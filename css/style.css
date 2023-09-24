@@ -1,0 +1,57 @@
+.comp-name {
+    font-style: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+}
+.site-navigation {
+    font-style: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+}
+.contact-details {
+    font-style: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+}
+h1 {
+    font-style: Roboto;
+    font-size: 44px;
+    font-weight: 900;
+}
+button {
+    width: 216px;
+    height: 50px;
+    font-style: Roboto;
+    font-size: 16;
+    font-weight: 700;
+}
+.pasteboard h3 {
+    font-style: Roboto;
+    font-size: 14;
+    font-weight: 700;
+}
+.pasteboard h3 {
+    font-style: Roboto;
+    font-size: 14;
+    font-weight: 400;
+}
+.our-job h3 {
+    font-style: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+}
+.our-command h2 {
+    font-style: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+}
+.our-command h3 {
+    font-style: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+}
+.our-command p {
+    font-style: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+}
